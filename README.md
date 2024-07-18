@@ -54,8 +54,10 @@ The missing element in this story is token-gating, making the content private. A
 ### Useful resources/links
 - **Lit x Ceramic Integration: Storing Encrypted Data on ComposeDB:** https://spark.litprotocol.com/lit-x-composedb/
 - **ZuPass repository**: https://github.com/proofcarryingdata/zupass
-- **Akasha Core: understanding apps, plugins, widgets**: https://blog.akasha.org/akasha-core-understanding-apps-widgets-plugins/
+- **Akasha Core understanding apps, plugins, widgets**: https://blog.akasha.org/akasha-core-understanding-apps-widgets-plugins/
 - **Akasha Core micro-frontends**: https://blog.akasha.org/akasha-core-micro-frontends/
+- **Akasha Core repo**: https://github.com/AKASHAorg/akasha-core
+- **Zupass and the Proof-Carrying Data SDK**: https://github.com/proofcarryingdata/zupass
 
 ## ZuPass 🤝 Lit Protocol
 ### Why this integration?
